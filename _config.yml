@@ -9,8 +9,8 @@ permalink:        pretty
 title:            sn99's blog
 tagline:          'sn99'
 description:      'Blog for sn99'
-url:              http://sn99.github.io/
-baseurl:          /
+url:              https://sn99.github.io/
+baseurl:          https://sn99.github.io/
 
 author:
   name:           'Siddharth Naithani'
