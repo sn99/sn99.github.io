@@ -127,7 +127,7 @@ instead we will build butteraugli directly.
 
 1a.png                      |           1b.png
 :--------------------------:|:--------------------------:
-![1a.png](resources/1a.png) | ![1b.png](resources/1b.png)
+![1a.png](/resources/1a.png) | ![1b.png](/resources/1b.png)
 
 `perf stat build/tools/butteraugli_main sample/1a.png sample/1b.png` gives:
 
