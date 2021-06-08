@@ -1,7 +1,10 @@
 ---
-layout: post title: "Butteraugli libjxl vs Google PART 1"
-date: 2021-06-07 author: "sn99"
-comments: true description: "A comparison between JPEG XL and Google implementation of Butteraugli"
+layout: post 
+title: "Butteraugli libjxl vs Google PART 1"
+date: 2021-06-07 
+author: "sn99"
+comments: true 
+description: "A comparison between JPEG XL and Google implementation of Butteraugli"
 keywords: "libjxl, google, butteraugli"
 ---
 
